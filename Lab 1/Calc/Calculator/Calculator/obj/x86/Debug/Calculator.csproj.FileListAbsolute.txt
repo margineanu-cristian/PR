@@ -1,0 +1,15 @@
+C:\Users\CriStiaN\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.Form1.resources
+C:\Users\CriStiaN\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\CriStiaN\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\CriStiaN\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.exe
+C:\Users\CriStiaN\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.pdb
+C:\Users\CriStiaN\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\CriStiaN\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.pdb
+E:\Documente\Scoalare\C#\Calc\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+E:\Documente\Scoalare\C#\Calc\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+E:\Documente\Scoalare\C#\Calc\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+E:\Documente\Scoalare\C#\Calc\Calculator\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
+F:\Documente\Scoalare\C#\Calc\Calculator\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
+F:\Documente\Scoalare\C#\Calc\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+F:\Documente\Scoalare\C#\Calc\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+F:\Documente\Scoalare\C#\Calc\Calculator\Calculator\obj\x86\Debug\Calculator.exe
